@@ -45,6 +45,6 @@ A voice-operated sales workspace built by our team of four. First place at Persc
 
 ## Away from the demo
 
-At **Brandl**, my daily AWS inventory pipeline processed 111K records for 60+ products. At **SciBiome**, I built literature-screening software and separately benchmarked deep-agent research architectures against ReAct and multi-agent designs. Both strands were included in a GCB 2026 oral presentation.
+At Brandl, my daily AWS inventory pipeline processed 111K records for 60+ products. At SciBiome, I built literature-screening software and separately benchmarked deep-agent research architectures against ReAct and multi-agent designs. Both strands were included in a GCB 2026 oral presentation.
 
 I also build things to understand them: a [TensorFlow layer from two papers](https://github.com/aditya-ladawa/CEFLANN), a [workout-monitoring robot](https://github.com/aditya-ladawa/Workout_monitoring_robot), and [ML implementations from scratch](https://github.com/aditya-ladawa/TensorTonic-Solutions). Hackathons are where I try unfamiliar tools and carry the useful parts into my next build. Outside code: gym, anime and FL Studio.
